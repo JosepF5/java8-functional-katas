@@ -4,27 +4,27 @@ import static org.junit.Assert.*;
 public class Main {
     public static void main(String[] args) {
         assertEquals(Kata1.execute().size(), 4);
-        System.out.println(Kata1.execute());
+        //System.out.println(Kata1.execute());
         System.out.println("Kata 1 solved!");
-        System.out.println(Kata2.execute());
+        //System.out.println(Kata2.execute());
         assertEquals(Kata2.execute().size(), 2);
         System.out.println("Kata 2 solved!");
-        System.out.println(Kata3.execute());
+        //System.out.println(Kata3.execute());
         assertEquals(Kata3.execute().size(), 4);
         System.out.println("Kata 3 solved!");
-        System.out.println(Kata4.execute());
+        //System.out.println(Kata4.execute());
         assertEquals(Kata4.execute().size(), 4);
         System.out.println("Kata 4 solved!");
-        /*
+        //System.out.println(Kata5.execute());
         assertEquals(Kata5.execute(), 5.0, 0.0);
         System.out.println("Kata 5 solved!");
-
+        //System.out.println(Kata6.execute());
         assertEquals(Kata6.execute(), "http://cdn-0.nflximg.com/images/2891/Fracture300.jpg");
         System.out.println("Kata 6 solved!");
-
+        System.out.println(Kata7.execute());
         assertEquals(Kata7.execute().size(), 4);
         System.out.println("Kata 7 solved!");
-
+        /*
         assertEquals(Kata8.execute().size(), 3);
         System.out.println("Kata 8 solved!");
 
